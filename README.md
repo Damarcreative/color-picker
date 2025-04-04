@@ -6,8 +6,6 @@
 
 A beautiful, responsive color picker web application with HEX, RGB, and HSL values. Explore curated color palettes and copy colors with one click.
 
-![Color Picker Screenshot](https://i.imgur.com/JQZ8X9l.png)  
-*(Screenshot placeholder - replace with your actual screenshot)*
 
 ## Features ✨
 
