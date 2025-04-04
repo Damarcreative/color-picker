@@ -25,7 +25,7 @@ A beautiful, responsive color picker web application with HEX, RGB, and HSL valu
 
 ## Live Demo 🌐
 
-Check out the live version: [https://damarcreative.github.io/colo-picker/](https://damarcreative.github.io/colo-picker/index.html)
+Check out the live version: [https://damarcreative.github.io/color-picker/index.html](https://damarcreative.github.io/color-picker/index.html)
 
 ## Installation 💻
 
